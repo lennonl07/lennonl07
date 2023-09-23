@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">No hay, pero se viene cositas</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="[https://i.imgur.com/Jji0CIE.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FCruzadasOficial%2Fstatus%2F1689333489542340608&psig=AOvVaw348Rba5cIyOVDEifVn-1WJ&ust=1695591936927000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOChkKvawYEDFQAAAAAdAAAAABAE)" width="400" alt="Ya pronto"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://imgur.com/kWQRGqQ" width="400" alt="Ya pronto"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
