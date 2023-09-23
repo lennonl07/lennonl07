@@ -58,5 +58,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lennonl07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <img height="100" src="https://media.giphy.com/media/Mz788DjvfUkSOE7qt3/giphy.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lennonl07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <img height="150" src="https://media.giphy.com/media/Mz788DjvfUkSOE7qt3/giphy.gif"  />
 </div>
