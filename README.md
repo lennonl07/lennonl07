@@ -36,20 +36,7 @@
 </div>                                                            
 </table>                                                                                 
 </div>
-<br>
-
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">No hay, pero se vienen cositas</h3>
-<div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg" width="400" alt="Ya pronto"></a>
-<p>
-<p>Aquí irá la descripción cuando finalmente tenga un proyecto.</p>
-</div>                                                            
-</table>                                                                                 
-</div>
-                                                                                      
+<br>                                                                                     
 </td>                                                    
 </table>                                                                                 
 </div>
