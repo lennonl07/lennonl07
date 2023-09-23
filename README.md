@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lennonl07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32"  alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32"  alt="linkedin logo"  />&nbsp
   </a>
   <a href="https://twitter.com/linares_lennon" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32"  alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32"  alt="twitter logo"  />&nbsp
   </a>
   <a href="https://www.instagram.com/lennonl07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32"  alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32"  alt="instagram logo"  />&nbsp
   </a>
   <a href="https://t.me/lennonl07" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32"  alt="telegram logo"  />
