@@ -16,6 +16,7 @@
 <table>
 <tr>
 <td width="50%">
+  <br>
 <h3 align="center">No hay, pero se vienen cositas</h3>
 <div align="center">
 <a href="" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg" width="400" alt="Ya pronto"></a>
