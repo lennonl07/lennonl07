@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T12:36:38.718Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.8.2" etag="ecRM5yCUjYiDw0-Du7Uj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T12:45:38.765Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ph13nSdKGXtLuk-mLLmG" version="21.8.2" type="github">
   <diagram name="Página-1" id="TCsYlYgtOmyXgTnKS2qT">
-    <mxGraphModel>
+    <mxGraphModel dx="844" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GZrekRBv3LmrXUeLBapX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="570" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-2" value="Seguridad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-3" value="Políticas de seguridad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-4" value="Monitoreo de seguridad y registros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="149" y="190" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-6" value="Copias de seguridad y recuperación de datos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="429" y="190" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-8" value="Segmentación de red" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-9" value="Protección contra ataques de denegación de servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="429" y="300" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZrekRBv3LmrXUeLBapX-10" value="Antivirus/Antimalware" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="530" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
