@@ -34,7 +34,7 @@
   <br>
 <h3 align="center">No hay, pero se vienen cositas</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg" width="400" alt="Ya pronto"></a>
+<a href="https://github.com/lennonl07/SistemaDeBoletosBlockchain.git" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg" width="400" alt="Ya pronto"></a>
 <p>
 <p>Aquí irá la descripción cuando finalmente tenga un proyecto.</p>
 </div>
