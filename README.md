@@ -36,7 +36,7 @@
 <div align="center">
 <a href="https://github.com/lennonl07/SistemaDeBoletosBlockchain.git" target="_blank"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/storage/uploads/view/3a0e2acc369365ced76e7134518b1d2c.jpg" width="400" alt="Ya pronto"></a>
 <p>
-<p>Aquí irá la descripción cuando finalmente tenga un proyecto.</p>
+<p>Sistema de Boletos con Smart Contracts que usa la tecnología Blockchain.</p>
 </div>
                                                                                       
 </td>
