@@ -34,7 +34,7 @@
   <br>
 <h3 align="center">Sistema de Boletos Blockchain</h3>
 <div align="center">
-<a href="https://github.com/lennonl07/SistemaDeBoletosBlockchain.git" target="_blank"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/storage/uploads/view/3a0e2acc369365ced76e7134518b1d2c.jpg" width="400" height="290" alt="Ya pronto"></a>
+<a href="https://github.com/lennonl07/SistemaDeBoletosBlockchain.git" target="_blank"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/storage/uploads/view/3a0e2acc369365ced76e7134518b1d2c.jpg" width="400" height="280" alt="Ya pronto"></a>
 <p>
 <p>Sistema de Boletos con Smart Contracts que usa la tecnología Blockchain.</p>
 </div>
@@ -45,7 +45,7 @@
                <br>
 <h3 align="center">No hay, pero se vienen cositas</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg" width="400" alt="Ya pronto"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg" width="400" height="280" alt="Ya pronto"></a>
 <p>
 <p>Aquí irá la descripción cuando finalmente tenga un proyecto.</p>
 </div>                                                            
