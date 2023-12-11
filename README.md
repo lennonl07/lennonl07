@@ -47,7 +47,8 @@
 <div align="center">
 <a href="https://github.com/lennonl07/AdministratorHaberSlug" target="_blank"><img src="https://oxygenacademy.es/wp-content/uploads/2023/01/es-mas-dificil-java-o-javascript-2.jpg" width="400" height="260" alt="Ya pronto"></a>
 <p>
-<p>Proyecto escrito en Java</p>
+<p>Proyecto escrito en Java que se basa en la implementación de un sistema integral de administración y control empresarial,
+denominado "Administrator Haber Slug."</p>
 </div>                                                            
 </table>                                                                                 
 </div>                                                                              
