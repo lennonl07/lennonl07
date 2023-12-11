@@ -45,7 +45,7 @@
                <br>
 <h3 align="center">Administrator Haber Slug</h3>
 <div align="center">
-<a href="https://github.com/lennonl07/AdministratorHaberSlug" target="_blank"><img src="https://i.imgur.com/kWQRGqQ.jpg](https://oxygenacademy.es/wp-content/uploads/2023/01/es-mas-dificil-java-o-javascript-2.jpg" width="400" height="260" alt="Ya pronto"></a>
+<a href="https://github.com/lennonl07/AdministratorHaberSlug" target="_blank"><img src="https://oxygenacademy.es/wp-content/uploads/2023/01/es-mas-dificil-java-o-javascript-2.jpg" width="400" height="260" alt="Ya pronto"></a>
 <p>
 <p>Proyecto escrito en Java</p>
 </div>                                                            
